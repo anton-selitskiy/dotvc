@@ -21,6 +21,27 @@ audio as real.
 ## Audio Samples
 Link to examples, or embed a player using HTML.
 
+Source and reference are up to 1 min.
+<table>
+  <tr>
+    <th>Source</th>
+    <th>Reference</th>
+  </tr>
+  <tr>
+    <td>
+      <audio controls>
+        <source src="audio/60_60/19-227-0072.wav" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <audio controls>
+        <source src="audio/60_60/1455-138263-0041.wav" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+  </tr>
+</table>
 <table>
   <tr>
     <td>
@@ -64,6 +85,78 @@ Link to examples, or embed a player using HTML.
       <p>k = 40</p>
       <audio controls>
         <source src="audio/60_60/converted_audio_40_60_60/19-227-0072._19_to_1455.wav" type="audio/wav">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+  </tr>
+</table>
+
+
+
+Source is represented by 1 utterance, reference uses 10 utterances
+<table>
+  <tr>
+    <th>Source</th>
+    <th>Reference</th>
+  </tr>
+  <tr>
+    <td>
+      <audio controls>
+        <source src="audio/5_0/118-47824-0026.wav" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <audio controls>
+        <source src="audio/5_0/1040-133433-0022.wav" type="audio/mpeg">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td>
+      <p>k = 1</p>
+      <audio controls>
+        <source src="audio/5_0/converted_audio_1_5_0/118-47824-0026._118_to_1040.wav" type="audio/wav">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <p>k = 3</p>
+      <audio controls>
+        <source src="audio/5_0/converted_audio_3_5_0/118-47824-0026._118_to_1040.wav" type="audio/wav">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <p>k = 4</p>
+      <audio controls>
+        <source src="audio/5_0/converted_audio_4_5_0/118-47824-0026._118_to_1040.wav" type="audio/wav">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <p>k = 5</p>
+      <audio controls>
+        <source src="audio/5_0/converted_audio_5_5_0/118-47824-0026._118_to_1040.wav" type="audio/wav">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <p>k = 10</p>
+      <audio controls>
+        <source src="audio/5_0/converted_audio_10_5_0/118-47824-0026._118_to_1040.wav" type="audio/wav">
+        Your browser does not support the audio element.
+      </audio>
+    </td>
+    <td>
+      <p>k = 40</p>
+      <audio controls>
+        <source src="audio/5_0/converted_audio_40_5_0/118-47824-0026._118_to_1040.wav" type="audio/wav">
         Your browser does not support the audio element.
       </audio>
     </td>
