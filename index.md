@@ -30,13 +30,13 @@ Source and reference are up to 1 min.
   <tr>
     <td>
       <audio controls>
-        <source src="audio/60_60/19-227-0072.wav" type="audio/mpeg">
+        <source src="audio/60_60/19-227-0072.flac" type="audio/flac">
         Your browser does not support the audio element.
       </audio>
     </td>
     <td>
       <audio controls>
-        <source src="audio/60_60/1455-138263-0041.wav" type="audio/mpeg">
+        <source src="audio/60_60/1455-138263-0041.flac" type="audio/flac">
         Your browser does not support the audio element.
       </audio>
     </td>
@@ -102,13 +102,13 @@ Source is represented by 1 utterance, reference uses 10 utterances
   <tr>
     <td>
       <audio controls>
-        <source src="audio/5_0/118-47824-0026.wav" type="audio/mpeg">
+        <source src="audio/5_0/118-47824-0026.flac" type="audio/flac">
         Your browser does not support the audio element.
       </audio>
     </td>
     <td>
       <audio controls>
-        <source src="audio/5_0/1040-133433-0022.wav" type="audio/mpeg">
+        <source src="audio/5_0/1040-133433-0022.flac" type="audio/flac">
         Your browser does not support the audio element.
       </audio>
     </td>
