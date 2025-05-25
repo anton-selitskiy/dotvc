@@ -4,7 +4,7 @@ This page presents our paper:
 
 **Title:** Discrete Optimal Transport and Voice Conversion
 **Authors:** Anton Selitskiy and Maitreya Kocharekar  
-**PDF:** [Download paper]([paper.pdf](https://arxiv.org/abs/2505.04382))
+**PDF:** [Download paper](https://arxiv.org/abs/2505.04382)
 **Code:** [on GitHub](https://github.com/anton-selitskiy/dotvc)
 
 ## Abstract
